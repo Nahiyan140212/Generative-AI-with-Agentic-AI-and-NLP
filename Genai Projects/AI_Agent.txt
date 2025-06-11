@@ -1,0 +1,12 @@
+langchain is an LLM App (Chatbot, RAG)
+LaNgraph is based on langchain (COMPLEX WORKFLOW)
+LllamaIndex
+CrewAI
+
+| Layer in the stack                                 | Theoretical lens                         | Representative library |
+| -------------------------------------------------- | ---------------------------------------- | ---------------------- |
+| **Execution graph** (fault-tolerant orchestration) | Finite-state / workflow nets             | **LangGraph**          |
+| **Composable pipeline** (single-agent reasoning)   | Chain-of-Responsibility                  | **LangChain**          |
+| **Knowledge retrieval** (data layer)               | Monoids & functors, vector search theory | **LlamaIndex**         |
+| **Collaborative autonomy** (multi-agent)           | Actor model, organizational theory       | **CrewAI**             |
+                    
